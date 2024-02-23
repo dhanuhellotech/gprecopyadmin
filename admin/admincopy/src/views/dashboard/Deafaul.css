@@ -1,0 +1,21 @@
+@media screen and (min-width: 957px) {
+    .dashboardnew {
+  
+        height: 100%;
+        width: 100%;
+
+        top: 190px;
+        left: 300px;
+    }
+}
+.dashboardnew {
+z-index: 1000;
+background-color: white;
+height: 100%;
+width: 100%;
+top: 80px;
+left:280px;
+    position:'absolute';
+
+
+}
